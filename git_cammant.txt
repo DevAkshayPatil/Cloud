@@ -1,0 +1,13 @@
+Command	What it does	Simple meaning
+git config	Sets Git configuration	Set your Git identity
+git init	Creates a Git repository	Start Git in a project
+git status	Shows current changes	Check project status
+git add	Adds changes to staging	Prepare changes for commit
+git commit	Saves changes	Create a version
+git log	Shows commit history	See previous versions
+git diff	Shows changes	See what changed
+git clone	Copies repository	Download project
+git push	Sends changes to GitHub	Upload changes
+git pull	Gets changes from GitHub	Download latest changes
+git fetch	Gets remote changes	Check remote updates
+git remote	Manages remote repository	Connect Git to GitHub
