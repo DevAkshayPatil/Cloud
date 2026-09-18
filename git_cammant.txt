@@ -11,3 +11,14 @@ git push	Sends changes to GitHub	Upload changes
 git pull	Gets changes from GitHub	Download latest changes
 git fetch	Gets remote changes	Check remote updates
 git remote	Manages remote repository	Connect Git to GitHub
+git push                                                                                                           
+  52 clear                                                                                                              
+  53 git remote -v                                                                                                      
+  54 git status                                                                                                         
+  55 git add .                                                                                                          
+  56 git status                                                                                                         
+  57 git commit "Added about git&github"                                                                                
+  58 git commit -m  "Added about git&github"                                                                            
+  59 git status                                                                                                         
+  60 git push                                                                                                           
+  61 clear    
