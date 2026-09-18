@@ -1,0 +1,23 @@
+Git:
+Git is a version control tool used to track and manage changes in your code or project.
+
+GitHub:
+GitHub is an online platform used to store, share, and collaborate on Git repositories.
+
+🔗 Relationship
+
+Git manages your project → GitHub stores and shares it online.
+
+Example:
+
+Your Computer
+     ↓
+    Git
+     ↓
+   GitHub
+     ↓
+Online Repository
+
+Easy to remember:
+🛠️ Git = Version Control Tool
+☁️ GitHub = Online Code Hosting Platform
